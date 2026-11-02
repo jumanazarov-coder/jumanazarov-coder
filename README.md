@@ -1,63 +1,34 @@
-<h1 align="center">Hi there, I'm Jaloliddin Jumanazarov 👋</h1>
-<h3 align="center">🚀 AI-Assisted Web Developer | Solo Founder | Rapid MVP Builder</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=round&color=1e1e2e&height=40&text=%20%20%20%20%20%20%20%20jumanazarov-coder.json%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=14&fontColor=a6adc8&align=left" width="100%" />
+</div>
 
-<p align="center">
-  I build modern, fast, and scalable web applications combining clean frontend architecture with cutting-edge AI workflows. Passionate about solving real-world problems through practical SaaS and automation tools.
-</p>
-
----
-
-### 🛠️ Tech Stack & AI Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode" alt="Tech Stack" />
-</p>
-
-* **AI-Engineering & Vibe Coding:** Cursor IDE, Google AI Studio (Gemini API), Claude, Lovable
-* **Focus Areas:** Rapid MVP Development, AI Integrations, Offline-First Web Apps, Mini-CRMs
-
----
-
-### 🔥 Featured Projects
-
-* 💊 **RetseptTahlil AI** — Medical prescription interpreter & lab test analyzer web app with medication interaction checks and Telegram export.
-* 🎓 **EduPay & Davomat** — Offline-first mini-CRM for tutoring centers featuring AI attendance tracking and automated payment reminders.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jumanazarov-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaloliddin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanazarov-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:jumanazarov.coder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/jumanazarov-coder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/jumanazarov.coder" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-<!--
-**jumanazarov-coder/jumanazarov-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Jaloliddin Jumanazarov",
+  "location": "Urgench, Khorezm, Uzbekistan",
+  "status": "11th Grade Student (Graduating May 2027) -> Future AI Engineer",
+  "role": "Solo-Founder & AI-Assisted Builder",
+  "skills": {
+    "current_foundation": ["HTML5", "CSS3", "Git", "GitHub"],
+    "vibe_coding_stack": ["Cursor IDE", "Claude", "Gemini Pro / AI Studio", "ChatGPT", "Lovable.dev"],
+    "learning_roadmap": ["Python", "FastAPI", "REST APIs", "LLMs & RAG Systems", "AI Engineering"]
+  },
+  "experience": {
+    "competition": "IT Park Xorazm — Ideathon 2026 (Solo-Founder)",
+    "mvp_projects": [
+      "💊 RetseptTahlil AI — Medical prescription interpreter & lab test analysis web MVP with Telegram export",
+      "🎓 EduPay & Davomat — Offline-first mini-CRM for tutoring centers with AI attendance & payment alerts"
+    ]
+  },
+  "goals": [
+    "Master Python, FastAPI, and LLM/RAG architectures from scratch",
+    "Pursue a university degree in Computer Science & AI Engineering",
+    "Build and launch impactful AI-powered startup products"
+  ],
+  "hobbies": ["Simulation Games", "Exploring new AI tools", "Tech Startups"],
+  "contact": {
+    "telegram": "@ltzz_999",
+    "email": "jumanazarov.coder@gmail.com",
+    "github": "[github.com/jumanazarov-coder](https://github.com/jumanazarov-coder)"
+  }
+}
