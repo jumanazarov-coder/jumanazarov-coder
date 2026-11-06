@@ -1,12 +1,17 @@
 # Jaloliddin Jumanazarov
-### Aspiring AI Engineer · Web Developer
+### Student · Future AI Engineer
 
-🇺🇿 Xorazm, O‘zbekiston | Python va JavaScript’ni o‘rganyapman.
+Hozir dasturlashni o‘rganyapman va kichik loyihalar orqali tajriba orttiryapman.
+Web development hamda sun’iy intellekt — asosiy qiziqishlarim.
 
-Web development va sun’iy intellekt yo‘nalishlarida bilimimni oshirib,
-foydali loyihalar yaratishni maqsad qilganman.
+- **Asoslar:** HTML, CSS, Git, GitHub
+- **O‘rganayotganlarim:** Python, JavaScript, AI Engineering
+- **Maqsadim:** bilimlarimni amaliy loyihalarda qo‘llash
 
-**Texnologiyalar:** HTML · CSS · Git · GitHub  
-**Hozir o‘rganyapman:** Python · JavaScript · AI Engineering
+### My Learning Journey
+📌 Python va JavaScript  
+📌 Web development  
+📌 AI Engineering
 
-[Projects](#projects) · [GitHub Stats](#github-stats) · [Telegram](TELEGRAM_HAVOLA)
+### Contact
+Telegram: TELEGRAM_HAVOLA
